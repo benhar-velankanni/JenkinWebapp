@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RIX_Tech\\Jenkins\\Webapplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D49941D-C218-4FD6-AFA5-BA90BEB67761}|TestWebapplication\\TestWebapplication.csproj|d:\\rix_tech\\jenkins\\webapplication\\testwebapplication\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D49941D-C218-4FD6-AFA5-BA90BEB67761}|TestWebapplication\\TestWebapplication.csproj|solutionrelative:testwebapplication\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E79044-4B7B-484C-8ED2-15F31DEC8EC6}|Webapplication\\Webapplication.csproj|d:\\rix_tech\\jenkins\\webapplication\\webapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E79044-4B7B-484C-8ED2-15F31DEC8EC6}|Webapplication\\Webapplication.csproj|solutionrelative:webapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E79044-4B7B-484C-8ED2-15F31DEC8EC6}|Webapplication\\Webapplication.csproj|d:\\rix_tech\\jenkins\\webapplication\\webapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5E79044-4B7B-484C-8ED2-15F31DEC8EC6}|Webapplication\\Webapplication.csproj|solutionrelative:webapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 372,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 254,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\RIX_Tech\\Jenkins\\Webapplication\\Webapplication\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Webapplication\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\RIX_Tech\\Jenkins\\Webapplication\\Webapplication\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Webapplication\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:35:05.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\RIX_Tech\\Jenkins\\Webapplication\\TestWebapplication\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestWebapplication\\UnitTest1.cs",
+              "ToolTip": "D:\\RIX_Tech\\Jenkins\\Webapplication\\TestWebapplication\\UnitTest1.cs",
+              "RelativeToolTip": "TestWebapplication\\UnitTest1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:31:30.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\RIX_Tech\\Jenkins\\Webapplication\\Webapplication\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Webapplication\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\RIX_Tech\\Jenkins\\Webapplication\\Webapplication\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Webapplication\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T04:28:47.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
