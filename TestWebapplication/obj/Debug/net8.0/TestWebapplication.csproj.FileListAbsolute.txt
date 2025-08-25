@@ -107,3 +107,4 @@ D:\RIX_Tech\Jenkins\Webapplication\TestWebapplication\obj\Debug\net8.0\refint\Te
 D:\RIX_Tech\Jenkins\Webapplication\TestWebapplication\obj\Debug\net8.0\TestWebapplication.pdb
 D:\RIX_Tech\Jenkins\Webapplication\TestWebapplication\obj\Debug\net8.0\TestWebapplication.genruntimeconfig.cache
 D:\RIX_Tech\Jenkins\Webapplication\TestWebapplication\obj\Debug\net8.0\ref\TestWebapplication.dll
+D:\RIX_Tech\Jenkins\Webapplication\TestWebapplication\obj\Debug\net8.0\TestWebapplication.sourcelink.json

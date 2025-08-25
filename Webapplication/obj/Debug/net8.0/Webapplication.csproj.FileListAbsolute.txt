@@ -31,3 +31,4 @@ D:\RIX_Tech\Jenkins\Webapplication\Webapplication\obj\Debug\net8.0\refint\Webapp
 D:\RIX_Tech\Jenkins\Webapplication\Webapplication\obj\Debug\net8.0\Webapplication.pdb
 D:\RIX_Tech\Jenkins\Webapplication\Webapplication\obj\Debug\net8.0\Webapplication.genruntimeconfig.cache
 D:\RIX_Tech\Jenkins\Webapplication\Webapplication\obj\Debug\net8.0\ref\Webapplication.dll
+D:\RIX_Tech\Jenkins\Webapplication\Webapplication\obj\Debug\net8.0\Webapplication.sourcelink.json
